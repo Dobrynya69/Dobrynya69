@@ -1,11 +1,11 @@
 <h1 align="center">Hi everyone, I`m Roman Yaresko</h1>
-<h3 align="center">Future backend developer from Ukraine, but currently I'm live in Poland</h3>
+<h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dobrynya69&label=Profile%20views&color=0e75b6&style=flat" alt="dobrynya69" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DjangoRestFramework**
+- 🌱 I’m currently learning **DjangoRestFramework** and constantly improving
 
 - 💬 Ask me about **Backend in Python**
 
